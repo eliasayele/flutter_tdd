@@ -1,5 +1,5 @@
 # TDD Clean Architecture for Flutter
-# this repo is clone form resocoder all info is included and I upgaded to null safty
+## this repo is clone form resocoder all info is included and I upgrade the porject  to null safty
 
 ### The whole accompanying tutorial series is available at :point_right: [this link](https://resocoder.com/flutter-clean-architecture-tdd/) :point_left:.
 
